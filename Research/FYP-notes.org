@@ -1,0 +1,9 @@
+#+title: FYP notes
+#+author: Abhirup Das
+#+description: notes and roadmap of FYP
+* Roadmap
+** Study topics:
+*** LDA (Latent Dirichlet Allocation) 
+*** LDA2vec
+*** code2vec: See code and website
+
